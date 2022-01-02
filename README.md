@@ -23,7 +23,7 @@ to obtain the statistic of the following informations:
 Note: Gender and year of birth data only avaiable for NYC and Chicago
 
 ### Credits
-Credit to Udacity in providing the coding template, project workspace, three cities dataset and also the guides or steps throughout this project as part of 
+Credit to Udacity in providing the coding template, project workspace, three cities dataset and also guidelines or steps throughout this project as part of 
 the RMIT Nanodegree program - Programming for Data Science with Python.  
  
 
