@@ -1,5 +1,5 @@
 ### Date created
-Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and refactoting 3 Dec 2021
+Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and refactoring 3 Dec 2021
 
 ### Project Title
 US Bikeshare Data Analysis with Python and Github project 
