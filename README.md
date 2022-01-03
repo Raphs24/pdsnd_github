@@ -20,7 +20,7 @@ to obtain the statistic of the following informations:
      * new_york_city.csv
      * washington.csv 
 
-Note: Gender and year of birth data only avaiable for NYC and Chicago
+Note: *Gender and year of birth data only avaiable for NYC and Chicago.*
 
 ### Credits
 Credit to Udacity in providing the coding template, project workspace, three cities dataset and also guidelines or steps throughout this project as part of 
