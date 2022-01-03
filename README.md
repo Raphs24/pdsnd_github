@@ -1,8 +1,9 @@
 ### Date created
 Bikeshare project created on 1 Dec 2021 and README.md created on 2 Jan 2022
+Documentation Github branch created on 3 Jan 2022
 
 ### Project Title
-US Bikeshare Data Analysis with Python 
+US Bikeshare Data Analysis with Python and Github project
 
 ### Description
 Analysing data related to bike share system for three major cities in the US including Chicago, New York City and Washington by using Python coding
