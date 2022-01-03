@@ -1,5 +1,5 @@
 ### Date created
-Bikeshare project created on 1 Dec 2021 and README.md created on 2 Jan 2022
+Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and 
 Documentation Github branch created on 3 Jan 2022
 
 ### Project Title
