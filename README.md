@@ -26,5 +26,7 @@ Note: *Gender and year of birth data only avaiable for NYC and Chicago.*
 ### Credits
 Credit to Udacity in providing the coding template, project workspace, three cities dataset and also guidelines or steps throughout this project as part of 
 the RMIT Nanodegree program - Programming for Data Science with Python.  
+
+Credit to Udacity for github project guidelines and formatting. 
  
 
