@@ -1,6 +1,13 @@
 ### Date created
+<<<<<<< HEAD
 Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and 
 Github branches created on 3 Jan 2022
+||||||| d02d75d
+Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and 
+Documentation Github branch created on 3 Jan 2022
+=======
+Bikeshare project created on 1 Dec 2021, README.md created on 2 Jan 2022 and github branches created on 3 Jan 2022
+>>>>>>> documentation
 
 ### Project Title
 US Bikeshare Data Analysis with Python and github project
@@ -21,12 +28,26 @@ to obtain the statistic of the following informations:
      * new_york_city.csv
      * washington.csv 
 
+<<<<<<< HEAD
 *Note: Gender and year of birth data only avaiable for NYC and Chicago.*
+||||||| d02d75d
+Note: *Gender and year of birth data only avaiable for NYC and Chicago.*
+=======
+*Note: Gender and year of birth data only avaiable for NYC and Chicago*
+>>>>>>> documentation
 
 ### Credits
 Credit to Udacity in providing the coding template, project workspace, three cities dataset and also guidelines or steps throughout this project as part of 
 the RMIT Nanodegree program - Programming for Data Science with Python.  
 
+<<<<<<< HEAD
 Credit to Udacity for github project guidelines and formatting. 
 
+||||||| d02d75d
+Credit to Udacity for github project guidelines and formatting. 
+ 
+=======
+Credit to Udacity for github project guidelines and formatting.
+ 
+>>>>>>> documentation
 
